@@ -22,7 +22,7 @@ Node.js (самая свежая версия, доступная в EPEL реп
 Тестовое приложение:
 
 исходный код тестового приложения app.js
-`<
+```
 // Load the express module.
 var express = require('express');
 var app = express();
@@ -47,4 +47,4 @@ console.log('Express server started successfully.');
 },
 "engine": "node >= 0.10.6"
 }
->`
+```
