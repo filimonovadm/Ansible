@@ -35,10 +35,11 @@ res.send('<h1>Hello World!</h1>');
 // Listen on port 80 (like a serious web server).
 app.listen(80);
 console.log('Express server started successfully.');
+```
 Файл с зависимостями:
 
 Файл с описанием зависимостей приложение (Express) с именем package.json должен располагаться в одном каталоге с файлом приложения app.js
-
+```json
 {
 "name": "examplenodejsapp",
 "description": "Example Express Node.js app.",
