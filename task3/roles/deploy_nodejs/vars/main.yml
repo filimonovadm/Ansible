@@ -1,0 +1,4 @@
+---
+# vars file for deploy_nodejs
+
+  node_apps_location: /home/filimonov/ansible
